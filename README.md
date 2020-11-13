@@ -1,2 +1,3 @@
-# profiles-rest-api
+# Profiles Rest API
+
 Django RestFul API
